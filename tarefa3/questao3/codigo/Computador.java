@@ -1,4 +1,4 @@
-package questao3;
+package questao3.codigo;
 
 class Computador {
     private String marca;
